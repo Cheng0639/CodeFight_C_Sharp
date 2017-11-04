@@ -7,7 +7,7 @@ namespace CodeFights
     {
         static void Main(string[] args)
         {
-            Intro.No25_arrayReplace_Run();
+            Intro.No33_stringsRearrangement_Run();
         }
     }
 }
