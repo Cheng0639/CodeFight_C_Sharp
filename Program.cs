@@ -7,7 +7,7 @@ namespace CodeFights
     {
         static void Main(string[] args)
         {
-            Intro.No33_stringsRearrangement_Run();
+            Intro.No37_arrayMaxConsecutiveSum_Run();
         }
     }
 }
