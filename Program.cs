@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace CodeFights
 {
-    class Program
+    class Progr
     {
         static void Main(string[] args)
         {
