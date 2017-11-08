@@ -7,7 +7,7 @@ namespace CodeFights
     {
         static void Main(string[] args)
         {
-            Intro.No45_buildPalindrome_Run();
+            Intro.No60_sudoku_Run();
         }
     }
 }
