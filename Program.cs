@@ -7,7 +7,7 @@ namespace CodeFights
     {
         static void Main(string[] args)
         {
-            Intro.No37_arrayMaxConsecutiveSum_Run();
+            Intro.No45_buildPalindrome_Run();
         }
     }
 }
